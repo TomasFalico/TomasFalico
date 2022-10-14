@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h2>Hola, mi nombre es Tomás Falico y soy un programador Junior</h2>
+<h2>Hola, mi nombre es Tomás y soy un programador Junior</h2>
 <h3>Actualmente me encuentro participando en los siguientes cursos: </h3>
 <ul>
   <li>
